@@ -1,0 +1,81 @@
+model,output,time_sec,mem_mb
+T5-base,"Nikola Tesla was an engineer and scientist known for designing the alternating-current (AC) electric system . he also created the ""Tesla coil,"" which is still used in radio technology . Tesla was a pioneer in the discovery of radar technology, X-ray technology, remote control and the rotating magnetic field .",3.9,472.03
+T5-large,3. 3. Write a flashcard with the answers. 4. Write a flashcard with the answers. 3. Write a flashcard with the answers. 3. Write a flashcard with the answers. 4. Write a flashcard with the answers. 5. Write a flashcard with the answers. 6. Write a flashcard with the answers.. Nikola Tesla invented the and • Nikola and and Tesla Tesla and Tesla and....,4.59,0.9
+mT5-base,"<extra_id_0>, Tesla. Tesla.",0.38,1.56
+DeepSeek,"Alright class, settle down! Today we're diving into the electric brilliance of **Nikola Tesla**, a true pioneer and inventor ahead of his time. We'll keep his amazing journey clear and memorable, then test our understanding with some creative Q&A flashcards. Let's make this fun and insightful!
+
+---
+
+### **1. 3-Sentence Summary**
+
+Nikola Tesla, the ""Son of Lightning and the Sun,"" was born in Croatia in the 1850s with a visionary mind dedicated to electricity. He initially worked briefly with the famous Thomas Edison but soon moved to champion **Alternating Current (AC)** electricity – a revolutionary system that uses *oscillating* electric charge, allowing efficient long-distance power transmission across the developing world (unlike Edison's direct current). After facing setbacks early in America, Tesla partnered with George Westinghouse and became a solo star, solidifying his legacy as one of the most influential engineers and inventors in history.
+
+---
+
+### **2. 5 Flashcard Questions & Answers**
+
+Let's get ready to quiz ourselves! Use these flashcards (imagining them in your mind or study partner's hand – perhaps made of light!) to practice key facts about Tesla and his world-changing contributions.
+
+**Flashcard 1**
+
+**Q:** What was Nikola Tesla’s original walk in life, before he became a famous inventor?
+**A:** Nikola Tesla originally wanted to pursue a career as a **priest** or **minister**, thanks to his father's influence.
+
+**Flashcard 2**
+
+**Q:** How does Nikola Tesla's alternating current (AC) electricity fundamentally differ from Thomas Edison’s direct current (DC) electricity?
+**A:** Nikola Tesla's AC electricity uses an **oscillating**, or alternating, electric charge, allowing it to be sent long distances easily, unlike Thomas Edison's DC system, which sent a **steady**, continuous flow but lost power too quickly over distance.
+
+**Flashcard 3**
+
+**Q:** What was the key component that was the basis of much of the AC equipment and the main invention often wrongly linked to George Westinghouse?
+**A:** Tesla discovered the **Rotating Magnetic Field**, which directly enabled his invention creation using alternating current (AC) and is something George Westinghouse famously secured a patent license for.
+
+**FlashCard 4**
+
+**Q:** Why did Nikola Tesla’s first American employer, Thomas Edison, end their partnership?
+**A:** Tesla and Edison parted ways due to **fundamental business differences and patent conflicts**. Edison favored commercialization and marketing heavily, while Tesla was more focused on pure invention and technical innovation, often leaving money on the table strategically.
+
+**Flashcard 5**
+
+**Q:** Besides the electric lightbulb, what other technology did Nikola Tesla almost invent independently, which was later attributed primarily to William Roentgen?
+**A:** In 1895, before German scientist **Wilhelm Roentegen** officially announced his X-rays the following year, Tesla **discovered and experimented with the radiation that could penetrate solid matter**, working in his Colorado Springs lab tower experiments. (Tesla later opposed their use for military purposes.)",6.87,0.0
+Qwen3-8B,"**Summary (3 sentences):**  
+Nikola Tesla, born on July 10, 1856, in Smiljan, Croatia, was a pioneering engineer and scientist known for developing the alternating-current (AC) electrical system and the Tesla coil, which revolutionized modern technology. After working briefly with Thomas Edison in the U.S., Tesla parted ways due to their differing approaches to science and business, eventually collaborating with George Westinghouse to advance AC power. His innovations laid the foundation for wireless communication, radar, and remote control, cementing his legacy as a visionary inventor.  
+
+**Flashcard Questions & Answers:**  
+1. **Q:** Where was Nikola Tesla born, and what year?  
+   **A:** He was born on July 10, 1856, in Smiljan, Croatia.  
+
+2. **Q:** What was the primary conflict between Tesla and Thomas Edison?  
+   **A:** Their differing personalities and approaches—Edison focused on marketing and financial success, while Tesla prioritized scientific innovation and was commercially naive.  
+
+3. **Q:** What was Tesla’s first major invention, and how did it influence his career?  
+   **A:** The induction motor (inspired by the rotating magnetic field) led to his departure from Europe and eventual move to America, where he developed AC-based systems.  
+
+4. **Q:** Which company did Tesla found in 1887, and what was its significance?  
+   **A:** The Tesla Electric Company, which resulted in key patents for AC machinery and helped establish the AC electrical system as the global standard.  
+
+5. **Q:** What modern technologies owe their origins to Tesla’s work?  
+   **A:** Radar, X-ray technology, remote control, and wireless communication (via the Tesla coil and rotating magnetic field concepts).",7.66,0.0
+Mistral-Small-3.2,"### **1. Summary in 3 Sentences:**
+Nikola Tesla, born in 1856 in Croatia, was a brilliant inventor and engineer who pioneered the alternating-current (AC) electrical system, the rotating magnetic field, and the Tesla coil, which remain foundational in modern technology. After initially working with Thomas Edison, Tesla pursued his own innovations, often facing financial struggles but eventually gaining recognition for his groundbreaking work. His inventions, including early radar and X-ray technology, laid the groundwork for much of today’s electrical and wireless systems.
+
+---
+
+### **2. Flashcard Questions & Answers:**
+
+1. **What was Nikola Tesla’s most significant contribution to electricity?**
+   *Tesla designed the alternating-current (AC) electrical system, which became the global standard.*
+
+2. **How did Tesla’s relationship with Thomas Edison end?**
+   *Their partnership ended due to clashing personalities—Edison focused on business and marketing, while Tesla prioritized scientific innovation.*
+
+3. **Where was the Tesla coil commonly used?**
+   *The Tesla coil was (and still is) used in radio technology and wireless electricity transmission.*
+
+4. **What unlikely inspiration did Tesla’s mother provide for his inventions?**
+   *His mother, Djuka Mandic, invented small household appliances in her spare time, sparking Tesla’s early interest in engineering.*
+
+5. **What was the key concept behind Tesla’s induction motor?**
+   *The induction motor relied on the rotating magnetic field, which became the basis for most AC machinery.*",6.24,0.0
